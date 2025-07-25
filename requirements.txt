@@ -1,0 +1,5 @@
+Adafruit_DHT
+rich
+schedule
+python-telegram-bot==13.15
+
