@@ -29,7 +29,7 @@ El propósito es ofrecer una solución **inteligente, local y de bajo costo**, c
 ---
 
 ## 🧱 2. Diagrama general del sistema
-
+![Diagrama del sistema](diagramabloques.png)
 ---
 
 ## 🔌 3. Componentes físicos (hardware)
